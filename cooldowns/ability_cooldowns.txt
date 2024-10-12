@@ -1,0 +1,12 @@
+ability0=0
+ability1=3
+ability2=0
+ability3=0
+ability4=0
+ability5=0
+item0=0
+item1=0
+item2=0
+item3=0
+item4=0
+item5=0
